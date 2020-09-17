@@ -1,6 +1,6 @@
 # CSS-Practice
 
-This repository contains HTML & CSS based designed Profile Card and a login page.
+This repository contains Profile Card and a login page designed on using HTML & CSS.
 
 You can click the links to see it in your own browser:
 
